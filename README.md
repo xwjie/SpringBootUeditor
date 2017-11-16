@@ -4,6 +4,10 @@ SpringBoot集成百度 UEditor的例子，运行工程，打开 http://editor.xi
 * 配置文件 config.json 移到src目录中
 * 上传生成缩略图
 
+# 部署结构图
+
+![](DeployDiagram.png)
+
 # 配置host
 
 ```
